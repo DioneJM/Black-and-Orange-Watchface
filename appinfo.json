@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Dione M",
+    "longName": "Black and Orange Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "B/O Face",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0bb2d362-51f6-45fe-b453-b0b940c20e2a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
